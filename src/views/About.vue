@@ -6,12 +6,12 @@
   <hr class="my-4">
   <h2 class="text-monospace">Technologies Used</h2>
 	<ul class="list-group">
-        <h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Vue.JS</li></h3>
-        <hr>
-        <h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Yandex API</li></h3>
-        <hr>
-        <h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Bootstrap 4</li></h3>
-  </ul>
+		<h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Vue.JS</li></h3>
+		<hr>
+		<h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Yandex API</li></h3>
+		<hr>
+		<h3><li class="list-group-item d-flex justify-content-between align-items-center active text-monospace">Bootstrap 4</li></h3>
+	</ul>
 </div>
 </div>
 </template>
